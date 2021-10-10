@@ -1,5 +1,5 @@
 version-dbd586a6121c4273-2
-https://cdn.discordapp.com/attachments/785479045819269151/888796181336059944/EasyExploits.dll
+https://cdn.discordapp.com/attachments/891621534265905157/896860146649661440/WeAreDevs_API.dll
 false
 vr
 dll
